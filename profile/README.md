@@ -1,6 +1,4 @@
-<p align="center">
-  <h1><font color="blue">PeluGo Spain</font></h1>
-</p>
+
 
 <h1 align="center">¡Bienvenido/a a PeluGo Spain!</h1>
 
@@ -29,4 +27,5 @@ Actualmente he pasado del desarrollo HTML,CSS,JS a React implementando una base 
     <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css&perline=5" />
   </a>
 </p>
+
 
