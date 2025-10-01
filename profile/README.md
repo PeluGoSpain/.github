@@ -26,6 +26,7 @@ Actualmente he pasado del desarrollo HTML,CSS,JS a React implementando una base 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,django,docker,figma,aws&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css&perline=5" />
   </a>
 </p>
+
